@@ -1,0 +1,8 @@
+Consome uma carga para regenerar 5. 208 saúde e 3.
+125 mana cada 0. 5 segundos mais de 12 segundos, 
+para um total de 125 saúde e 75 mana . 
+Durante este tempo, ataques básicos e habilidades de dano contra campeões
+inimigos os queimam, causando 15 bônus de dano mágico em 3 segundos, 
+aumentados para 20 enquanto o usuário não pode regenerar mana . 
+O dano bônus é reduzido pela metade para efeitos de área de efeito
+e dano ao longo do tempo .
