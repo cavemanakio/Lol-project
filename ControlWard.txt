@@ -1,0 +1,5 @@
+Coloca uma ala de controle visível no local alvo (alcance de 600), que garante visão sobre as 900 unidades ao redor. Não pode ter sua visão desativada . 
+Sua visão também Revela e desativa proteções inimigas.
+Revela as armadilhas furtivas do inimigo 
+Revela campeões camuflados
+Ele também é exposto a inimigos enquanto está revelando uma das unidades furtivas acima, ou concedendo a visão de um Tentáculo Tentáculo .
